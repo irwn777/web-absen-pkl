@@ -1,0 +1,6 @@
+{
+  "name": "Absensi PKL Selfie",
+  "description": "Aplikasi web absensi PKL siswa berbasis foto selfie langsung, timestamp lokal, koordinat GPS, rekap log kehadiran, ekspor CSV, dan integrasi Google Apps Script (GAS).",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
